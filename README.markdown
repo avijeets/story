@@ -1,4 +1,4 @@
-# [Story]
+# [Story](http://avijeet.me/)
 
 This is a simple static page is using Ruby on Rails to display three titles and minimal contact information on the bottom of the page.
 
