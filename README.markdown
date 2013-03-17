@@ -6,7 +6,7 @@ Three categories:
 	
 	What I Do
 	What I've Done
-	What I Want To Do
+	What I Will Do
 
 This page uses [Sinatra](http://sinatrarb.com/), [Heroku](http://heroku.com), and [Compass](http://compass-style.org) for rails, hosting and stylesheets. 
 
@@ -21,7 +21,7 @@ If you have a problem running the server, make sure you have the latest version 
 
 	brew install ruby
 
-To push to heroku, make sure git has been initialized in your repository, and make sure you make a heroku site"
+To push to heroku, make sure git has been initialized in your repository, and make sure you make a heroku site:
 
 	heroku create
 	git push heroku master
