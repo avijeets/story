@@ -2,6 +2,12 @@
 
 This is a simple static page is using Ruby on Rails to display three titles and minimal contact information on the bottom of the page.
 
+Three categories:
+	
+	What I Do
+	What I've Done
+	What I Want To Do
+
 This page uses [Sinatra](http://sinatrarb.com/), [Heroku](http://heroku.com), and [Compass](http://compass-style.org) for rails, hosting and stylesheets. 
 
 ##Installation
